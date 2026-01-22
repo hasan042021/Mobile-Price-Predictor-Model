@@ -62,13 +62,13 @@ The Gradio interface will launch in your browser, allowing you to input mobile s
 
 ## Deployment
 
-The application is deployed on Hugging Face Spaces. Access it at: [Hugging Face Link]
+The application is deployed on Hugging Face Spaces. Access it at: https://huggingface.co/spaces/Hasan0423/Mobile_Price_Prediction_App
 
 ## Submission Links
 
-- **GitHub Repository**: [GitHub Link]
-- **Google Colab Notebook**: [Colab Link]
-- **Hugging Face App**: [Hugging Face Link]
+- **GitHub Repository**: https://github.com/hasan042021/Mobile-Price-Predictor-Model
+- **Google Colab Notebook**: https://colab.research.google.com/drive/1zogwSs17DIoZriiTCjRxWbfqn81gla1y?usp=sharing
+- **Hugging Face App**: https://huggingface.co/spaces/Hasan0423/Mobile_Price_Prediction_App
 
 ## Technologies Used
 
